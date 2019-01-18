@@ -11,6 +11,7 @@ public class SpringElasticDemoApplication {
 
 	public static void main(String[] args) {
 
+		//System.out.println("hello");
 		SpringApplication.run(SpringElasticDemoApplication.class, args);
 	}
 }
